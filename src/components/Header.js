@@ -2,6 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 import { css } from '@emotion/core'
 import theme from '../../config/theme'
+import { graphql } from 'gatsby'
 
 import Container from './Container'
 
