@@ -1,4 +1,4 @@
-# egghead.io creator MDX Blog Starter Project
+# stallone.dev
 
 This is based on Robin Wieruch's https://github.com/rwieruch/gatsby-mdx-blog-starter-project
 
