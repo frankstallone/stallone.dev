@@ -58,6 +58,7 @@ export default function Index({ data: { site, allMdx } }) {
       site={site}
       headerColor={theme.colors.white}
       headerBg={theme.brand.primary}
+      noSubscribeForm
     >
       <Hero />
       <Container
