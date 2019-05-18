@@ -1,7 +1,7 @@
 ---
 slug: hello-world-again
 date: 2019-04-25
-title: 'Hello World Again'
+title: '👋 Hello World Again'
 description: 'The first blog post of the new blog. You will see many more, soon.'
 published: true
 banner: './pablo-gentile-587380-unsplash.jpg'
