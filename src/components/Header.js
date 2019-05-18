@@ -61,15 +61,20 @@ const Header = ({
             }
           `}
         >
-          {/*
           <Link
-            to="/blog"
+            to="/blog/"
             activeClassName="active"
             aria-label="View blog page"
           >
             Blog
           </Link>
-          */}
+          {/* <Link
+            to="/about/"
+            activeClassName="active"
+            aria-label="View more about me"
+          >
+            About
+          </Link> */}
         </div>
       </nav>
     </Container>

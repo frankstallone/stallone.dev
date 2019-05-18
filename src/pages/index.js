@@ -35,7 +35,7 @@ const Hero = () => (
           max-width: ${rhythm(15)};
         `}
       >
-        Where mindfulness meets technolog
+        Where mindfulness meets technology
       </h1>
     </Container>
     <div

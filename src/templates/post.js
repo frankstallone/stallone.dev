@@ -61,7 +61,6 @@ export default function Post({
           {banner && (
             <div
               css={css`
-                padding: 30px;
                 ${bpMaxSM} {
                   padding: 0;
                 }
