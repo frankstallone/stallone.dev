@@ -1,7 +1,7 @@
 import React, { Fragment } from 'react'
 import Helmet from 'react-helmet'
 import { graphql } from 'gatsby'
-import { MDXProvider } from '@mdx-js/tag'
+import { MDXProvider } from '@mdx-js/react'
 import { Global, css } from '@emotion/core'
 import { ThemeProvider } from 'emotion-theming'
 import { bpMaxSM } from '../lib/breakpoints'
@@ -148,12 +148,7 @@ export default ({
             <html lang="en" />
             <noscript>This site runs best with JavaScript enabled.</noscript>
           </Helmet>
-          <Header
-            siteTitle={site.siteMetadata.title}
-            dark={dark}
-            bgColor={headerBg}
-            headerColor={headerColor}
-          />
+          <Header dark={dark} bgColor={headerBg} headerColor={headerColor} />
           <MDXProvider components={mdxComponents}>
             <Fragment>{children}</Fragment>
           </MDXProvider>

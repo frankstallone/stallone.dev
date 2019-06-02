@@ -1,7 +1,11 @@
 {
   "env": {
     "NODE_ENV": "production",
+<<<<<<< HEAD
     "GOOGLE_ANALYTICS": "UA-140380476-1"
+=======
+    "GOOGLE_ANALYTICS": "GA_GOES_HERE"
+>>>>>>> egg/master
   },
   "name": "PROJECT_NAME",
   "alias": ["DOMAIN_NAME", "www.DOMAIN_NAME"],
