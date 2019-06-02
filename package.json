@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-egghead-blog",
-  "description": "This is a starter for egghead content creator blogs",
-  "version": "1.0.0",
-  "author": "egghead.io <support@egghead.io> (https://egghead.io)",
-  "repository": "https://github.com/eggheadio/gatsby-starter-egghead-blog",
+  "name": "stalloe.dev",
+  "description": "stallone.dev blog",
+  "version": "1.0.1",
+  "author": "Frank Stallone <frank@stallone.dev> (https://stallone.dev)",
+  "repository": "https://github.com/frankstallone/stallone.dev",
   "dependencies": {
     "@emotion/core": "^10.0.10",
     "@emotion/styled": "^10.0.11",
