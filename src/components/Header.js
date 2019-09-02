@@ -67,13 +67,13 @@ const Header = ({
           >
             Blog
           </Link>
-          {/* <Link
+          <Link
             to="/about/"
             activeClassName="active"
             aria-label="View more about me"
           >
             About
-          </Link> */}
+          </Link>
         </div>
       </nav>
     </Container>
