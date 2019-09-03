@@ -51,10 +51,17 @@ module.exports = {
             resolve: 'gatsby-remark-images',
             options: {
               backgroundColor: '#fafafa',
-              maxWidth: 1035,
+              maxWidth: 680,
             },
           },
         ],
+      },
+    },
+    {
+      resolve: 'gatsby-remark-images',
+      options: {
+        backgroundColor: '#fafafa',
+        maxWidth: 680,
       },
     },
     'gatsby-plugin-sharp',
