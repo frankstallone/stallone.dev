@@ -13,6 +13,6 @@ There are a slew of ad-blocking extensions for every browser out there. Some are
 
 Within 25 minutes of [Linus's how-to article](https://linustechtips.com/main/topic/1094810-pi-hole-setup-tutorial/) I had [Pi-Hole](https://pi-hole.net/) up and running on my entire network. Pi-hole can do ad blocking for every device on your network. After I set it up I updated the [whitelists](https://github.com/anudeepND/whitelist) and [blacklists](https://v.firebog.net/hosts/lists.php).
 
-I'll spare you rewriting an already good how-to article but I will say that it's been running on the entire network now for a week, flawlessly. The dashboard is great, I can see what has been blocked, quickly whitelist if needed, and tweak to my hearts desire. The Raspberry Pi now lives atop my switch. I couldn't be happier.
+I'll spare you rewriting an already good how-to article but I will say that it's been running on the entire network now for a week, flawlessly. The dashboard is great, I can see what has been blocked, quickly whitelist if needed, and tweak to my heart's desire. The Raspberry Pi now lives atop my switch. I couldn't be happier.
 
 ![Pi-hole Dashboard](./pi-hole-dashboard.png)
