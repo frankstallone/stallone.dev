@@ -1,7 +1,7 @@
 ---
 slug: lensrentals
 date: 2019-05-17
-title: '📸 Try that expensive cameras before you buy it'
+title: '📸 Try that expensive camera before you buy it'
 description: 'Before spending thousands of dollars, try out that camera and lens first'
 published: true
 banner: './mattews-di-nelson-1134148-unsplash.jpg'
